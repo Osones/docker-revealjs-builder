@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="romain.guichard@alterway.fr"
+LABEL maintainer="herve.leclerc@alterway.fr"
 
 ENV PKGVER 1.19.2.4~dfsg-1build4
 
